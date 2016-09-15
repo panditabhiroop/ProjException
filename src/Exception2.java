@@ -24,7 +24,7 @@ public class Exception2 {
 	        String od2s=sc.next();
 	        d=opr.opearation(op,od1s,od2s);
 	        System.out.println(d);
-	        System.out.print("hello");
+	        System.out.print("helloyaar");
 	    }
 	    public double opearation(String op, String od1 , String od2)
 	    {
