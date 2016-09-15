@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Exception2 {
 	 public static void main(String args[])
 	    {
+	    	
 	        Exception2 opr=new Exception2();
 	        Scanner sc=new Scanner(System.in);
 	        String op=sc.next();
@@ -24,7 +25,7 @@ public class Exception2 {
 	        String od2s=sc.next();
 	        d=opr.opearation(op,od1s,od2s);
 	        System.out.println(d);
-	        System.out.print("helloyaar");
+	        System.out.print("hello yaar");
 	    }
 	    public double opearation(String op, String od1 , String od2)
 	    {
